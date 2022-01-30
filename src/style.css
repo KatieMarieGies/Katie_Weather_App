@@ -31,13 +31,12 @@ li:first-letter {
   text-transform: capitalize;
 }
 
-.container {
-color: white;
-opacity: 0.9;
-}
+
 .weather-app-wrapper {
   max-width: 600px;
   margin: 30px auto;
+  color: white;
+  opacity: 0.9;
 }
 
 .weather-app {
