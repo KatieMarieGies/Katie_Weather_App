@@ -1,6 +1,7 @@
 body {
   font-family: arial, sans-serif;
   background: linear-gradient(180deg, rgb(248, 249, 250) 0%, rgb(238, 246, 248) 100%);
+  background-size: cover;
 }
 
 h1 {
